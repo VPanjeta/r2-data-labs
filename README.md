@@ -4,7 +4,7 @@
 
 ## Installation:
 
-```{bash}
+```bash
 # Obtain Google Maps API key and OpenAI API keys and 
 # set them as environment variables under the name
 # `GOOGLE_MAPS_API_KEY` and `OPENAI_API_KEY` respectively by
@@ -22,7 +22,7 @@ pyton3 -m pip install -r requirements.txt # For python libraries. Minimum versio
 
 ## Running
 
-```{bash}
+```bash
 streamlit run app.py # Creates a local instance listening on port 8501
 ```
 
